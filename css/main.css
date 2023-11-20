@@ -6,6 +6,20 @@
   box-sizing: border-box;
 }
 
-.header {
-  background-color: red;
+ol ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+image {
+  vertical-align: middle;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+button {
+  border: none;
 }/*# sourceMappingURL=main.css.map */
